@@ -13,8 +13,10 @@
   -----------------
   Name: Luca
   OS: Artix x86_64
-  Languages: ["Python", "C", "C++", "Haskell", "AGDA", "COQ", "Bash", "Java"]
-  Intrests: ["Refactoring", "Linux", "Formal methods", "Category theory"]  
+  Languages: ["Python", "C", "C++", "Haskell",
+              "AGDA", "COQ", "Bash", "Java"]
+  Interests: ["Refactoring", "Linux",
+              "Formal methods", "Category theory"]  
   Uptime: 21 Years
   ```
 </div>
