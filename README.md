@@ -1,7 +1,7 @@
 
 
 ```css
-┌[heapbytes@git]-(~)
+┌[Luca-Barra@git]-(~)
 └> mefetch
 ```
  
