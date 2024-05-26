@@ -13,7 +13,7 @@
   -----------------
   Name: Luca
   OS: Artix x86_64
-  Languages: ["Python", "C", "C++", "Haskell",
+  Languages: ["Rust", "C", "C++", "Haskell",
               "AGDA", "COQ", "Bash", "Java"]
   Interests: ["Refactoring", "Linux",
               "Formal methods", "Category theory"]  
