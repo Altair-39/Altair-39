@@ -15,9 +15,10 @@
   OS: Artix x86_64
   Languages: ["Rust", "C", "C++", "Haskell",
               "AGDA", "COQ", "Bash", "Java"]
-  Interests: ["Refactoring", "Linux",
-              "Formal methods", "Category theory"]  
-  Uptime: 21 Years
+  Interests: ["Refactoring", "Linux", "Windows Manager",
+              "i3wm", "Formal methods", "Category theory"]  
+Orientation: ["Aroace"]
+Uptime: 21 Years
   ```
 </div>
 
