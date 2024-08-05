@@ -18,7 +18,7 @@
   Interests: ["Refactoring", "Linux", "Windows Manager",
               "i3wm", "Formal methods", "Category theory"]  
 Orientation: ["Aroace"]
-Uptime: 21 Years
+Uptime: 22 Years
   ```
 </div>
 
