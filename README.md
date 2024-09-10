@@ -11,7 +11,7 @@
   ```css
   Luca-Barra@GitHub
   -----------------
-  Name: Luca
+  Name: Altair
   OS: Artix x86_64
   Languages: ["Rust", "C", "C++", "Haskell",
               "AGDA", "COQ", "Bash", "Java"]
