@@ -1,7 +1,7 @@
 
 
 ```css
-┌[Luca-Barra@git]-(~)
+┌[Altair-39@git]-(~)
 └> mefetch
 ```
  
@@ -9,7 +9,7 @@
 <div style="display:block;text-align:left"><img align="left" src="https://artixlinux.org/img/artix-logo.png" border="0" style="width:156px;">
   
   ```css
-  Luca-Barra@GitHub
+  Altair-39@GitHub
   -----------------
   Name: Altair
   OS: Artix x86_64
