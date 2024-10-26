@@ -21,7 +21,9 @@ Orientation: ["Aroace"]
 Uptime: 22 Years
   ```
 </div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luca-Barra&layout=compact&theme=tokyonight&exclude_repo=LaTeX,AGDA,linux,.dotfiles,i3-dotfiles" alt="Top Languages" />
+</p>
 
 
 
