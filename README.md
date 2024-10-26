@@ -17,7 +17,7 @@
               "AGDA", "COQ", "Bash", "Java"]
   Interests: ["Refactoring", "Linux", "Windows Manager",
               "i3wm", "Formal methods", "Category theory",
-               "Computer Architecture", "Parallel Computing"]  
+              "Computer Architecture", "Parallel Computing"]  
 Orientation: ["Aroace"]
 Uptime: 22 Years
   ```
