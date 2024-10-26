@@ -6,7 +6,7 @@
 ```
  
 
-<div style="display:block;text-align:left"><img align="left" src="https://artixlinux.org/img/artix-logo.png" border="0" style="width:156px;">
+<div style="display:block;text-align:left"><img align="left" src="https://artixlinux.org/img/artix-logo.png" border="0" style="width:220px;">
   
   ```css
   Altair-39@GitHub
