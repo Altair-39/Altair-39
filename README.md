@@ -16,7 +16,8 @@
   Languages: ["Rust", "C", "C++", "Haskell",
               "AGDA", "COQ", "Bash", "Java"]
   Interests: ["Refactoring", "Linux", "Windows Manager",
-              "i3wm", "Formal methods", "Category theory"]  
+              "i3wm", "Formal methods", "Category theory",
+               "Computer Architecture", "Parallel Computing"]  
 Orientation: ["Aroace"]
 Uptime: 22 Years
   ```
