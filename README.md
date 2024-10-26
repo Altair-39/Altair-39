@@ -21,10 +21,13 @@ Orientation: ["Aroace"]
 Uptime: 22 Years
   ```
 </div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altair-39&layout=compact&theme=tokyonight&exclude_repo=LaTeX,AGDA,linux,.dotfiles,i3-dotfiles" alt="Top Languages" />
 </p>
 
-
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,c,haskell,latex,bash,arch,neovim" alt="My Skills" />
+  </a>
+</p>
