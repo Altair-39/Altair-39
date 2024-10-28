@@ -29,6 +29,6 @@ Uptime: 22 Years
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,haskell,latex,bash,arch,neovim" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=rust,c,lua,haskell,latex,bash,arch,neovim" alt="My Skills" />
   </a>
 </p>
