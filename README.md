@@ -13,8 +13,8 @@
   -----------------
   Name: Altair
   OS: Artix x86_64
-  Languages: ["Rust", "C", "C++", "Haskell",
-              "AGDA", "COQ", "Bash", "Java"]
+  Languages: ["Rust", "C", "Bash", "Haskell",
+              "AGDA", "COQ", "Prolog", "Java"]
   Interests: ["Refactoring", "Linux", "Windows Manager",
               "i3wm", "Formal methods", "Category theory",
               "Computer Architecture", "Parallel Computing"]  
