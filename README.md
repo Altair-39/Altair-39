@@ -14,7 +14,7 @@
   Name: Altair
   OS: Artix x86_64
   Languages: ["Rust", "C", "Bash", "Haskell",
-              "AGDA", "COQ", "Prolog", "Java"]
+              "AGDA", "COQ", "Prolog", "Elixir"]
   Interests: ["Refactoring", "Linux", "Windows Manager",
               "i3wm", "Formal methods", "Category theory",
               "Computer Architecture", "Parallel Computing"]  
@@ -29,6 +29,6 @@ Uptime: 22 Years
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,lua,haskell,latex,bash,arch,neovim" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=rust,c,elixir,haskell,latex,bash,arch,neovim" alt="My Skills" />
   </a>
 </p>
