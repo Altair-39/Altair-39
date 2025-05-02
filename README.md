@@ -24,7 +24,7 @@ Uptime: 22 Years
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altair-39&layout=compact&theme=catppuccin_mocha&exclude_repo=LaTeX,i3-dotfiles&langs_count=8&hide=CLIPS" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altair-39&layout=compact&theme=catppuccin_mocha&exclude_repo=LaTeX,i3-dotfiles&langs_count=8&hide=CLIPS,tex" alt="Top Languages" />
 </p>
 
 <p align="center">
